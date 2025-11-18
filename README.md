@@ -1,16 +1,19 @@
-# simple_banking_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Simple Banking App
+A lightweight Flutter application that simulates basic banking functionality. Users can view account types and browse recent transactions in a clean, intuitive interface.
+ Features
+- Welcome screen with bank logo and current date
+- Navigation to account list and transaction history
+- Two account types: Chequing and Savings
+- Sample transaction data with visual indicators for deposits and withdrawals
+- Responsive UI using Flutter widgets
+ Tech Stack
+- Flutter: UI framework
+- Dart: Programming language
+- intl: Date formatting
+- Material Design: UI components
+- Getting Started
+Prerequisites
+- Flutter SDK installed
+- Dart SDK
+-i use ai to get the idea and also design the app
+-also use it for the solve the error 
